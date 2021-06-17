@@ -8,6 +8,7 @@ In this study, 249 mice with a malignant SCC tumor were given a variety of drug 
       * data: Contains the data files 'Mouse_metadata.csv' and 'Study_results.csv'
       * Jupyter notebook 'pymaceuticals.ipynb' that has main script to run for analyzing the data stored in csv files of 'data' folder.
       * Please find Observations or inferences made from the data at the top of notebook.
+      * Obs_Images: Contains image screen shots used for Observations or inferences at the top of notebook.
 #### Key notes:
    * The report successfully displays 
       * A summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
