@@ -20,8 +20,8 @@ In this study, 249 mice with a malignant SCC tumor were given a variety of drug 
       * A line plot of tumor volume vs. time point for a mouse that was treated with Capomulin.
       * A plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
       * The correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. 
-	* A plot for linear regression model on top of the previous scatter plot.
-	* Three observations or inferences that can be made from the data at the top of notebook.
+	  * A plot for linear regression model on top of the previous scatter plot.
+	  * Three observations or inferences that can be made from the data at the top of notebook.
  
 #### Used proper labeling of plots, to include properties such as: plot titles, axis labels, legend labels, x-axis and y-axis limits, etc.
    * Dataframes were accurately created, grouped.
